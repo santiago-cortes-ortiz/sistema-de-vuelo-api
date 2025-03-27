@@ -2,7 +2,7 @@
 
 # Backend
 
-El backend está compuesto por 3 microservicios principales:
+El backend está compuesto por 4 API's principales:
 
 1. **Microservicio de Autenticación (Auth)**
    - Maneja la autenticación y autorización de usuarios
